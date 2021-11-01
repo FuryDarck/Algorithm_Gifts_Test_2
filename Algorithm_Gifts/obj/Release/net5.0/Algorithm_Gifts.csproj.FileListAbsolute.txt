@@ -1,0 +1,16 @@
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\Algorithm_Gifts.exe
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\Algorithm_Gifts.deps.json
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\Algorithm_Gifts.runtimeconfig.json
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\Algorithm_Gifts.runtimeconfig.dev.json
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\Algorithm_Gifts.dll
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\ref\Algorithm_Gifts.dll
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\bin\Release\net5.0\Algorithm_Gifts.pdb
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.csproj.AssemblyReference.cache
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.AssemblyInfoInputs.cache
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.AssemblyInfo.cs
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.csproj.CoreCompileInputs.cache
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.dll
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\ref\Algorithm_Gifts.dll
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.pdb
+C:\Users\dimap\RiderProjects\Algorithm_Gifts\Algorithm_Gifts\obj\Release\net5.0\Algorithm_Gifts.genruntimeconfig.cache
