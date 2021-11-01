@@ -87,6 +87,8 @@ namespace Algorithm_Gifts
         
         static void Main(string[] args)
         {
+            
+            
             int a = 1;
             int d;
             d = Convert.ToInt32(Console.ReadLine());
